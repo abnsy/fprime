@@ -1,0 +1,5 @@
+set(SOURCE_FILES
+    TestCcsds.cpp
+)
+
+register_fprime_ut()
